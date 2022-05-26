@@ -1,0 +1,24 @@
+body{
+    background-image:url('img/f1wall.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    
+}
+.kozepes{
+    margin-top: 200px;
+}
+.bw{
+    width: 250px;
+    font-weight: bold;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 150px;
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    opacity: 0.6;
+}

@@ -1,0 +1,17 @@
+.tabhat{
+    opacity: 0.6;
+    background-color: blue;
+    color: white;
+}
+.lista{
+    color: white;
+    text-align: center;
+}
+h1{
+    color: yellow;
+    text-transform: uppercase;
+}
+.szel{
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
